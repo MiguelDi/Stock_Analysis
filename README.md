@@ -7,7 +7,7 @@
 
 ### Files
 
-* The Vba_Challengue.xlsm file is an Excel File with an format to includes Macros, but make sure to everytime you open it to enable the macro option that will pop out automatic every time you open the file.
+* The Vba_Challengue.xlsm file is an Excel File with an format to includes Macros, but make sure to everytime you open it enable the macro option that will pop out automatic every time you open the file.
 
 
 ## Stock Market Analysis
@@ -17,6 +17,9 @@
 	  
 	![](Resources/DQAnalysis.png).
 	 
+
+
+
 
 
 
@@ -30,9 +33,16 @@ Ticker symbol.
   ![](Resources/AllstocksAnalyis.png). 
   
   
+  
+  
   * Create a script that will loop a timer to indicate how many seconds the code ran for each year. 
 
   ![](Resources/AllstocksAnalyisandtimer.png). 
+  
+  
+  
+  
+  
   
   * After all the scripts, we have to make another one to  conditional formatting the cells will highlight positive change in green and negative change in red.
 
@@ -43,6 +53,8 @@ Ticker symbol.
 
   
   
+
+
 ## Report
 
 1. Create a Refactored Code
