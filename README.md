@@ -1,4 +1,4 @@
-##The Vba Of Wall Street
+## The Vba Of Wall Street
 
 ## Summary
 * A homework assignment for UC Berkeley's Data Analytics Bootcamp.
