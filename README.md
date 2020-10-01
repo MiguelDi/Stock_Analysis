@@ -15,7 +15,7 @@
 * Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.	 
 	 
 	  
-	![](./resources/DQAnalysis.png).
+	![](Resources/DQ Analysis.png).
 	 
 
 
@@ -27,16 +27,16 @@ The total Volume of the stock
 Ticker symbol.
  
   
-  ![](./resources/AllstocksAnalyis.png). 
+  ![](Resources/AllstocksAnalyis.png). 
   
   
   * Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 
-  ![](./resources/AllstocksAnalyisandtimer.png). 
+  ![](Resources/AllstocksAnalyisandtimer.png). 
   
   * After all the scripts, we have to make another one to  conditional formatting the cells will highlight positive change in green and negative change in red.
 
-![](./resources/formatting.png). 
+![](Resources/formatting.png).
   
   
   
@@ -54,7 +54,7 @@ Ticker symbol.
    
   *  Code Refactoring is the process of clarifying and simplifying the design of existing code, without changing its behavior. Agile teams are maintaining and extending their code a lot from iteration to iteration, and without continuous refactoring, this is hard to do. Example
 
-  ![](./resources/Refactoredcode.png). 
+  ![](Resources/Refactoredcode.png). 
 
   
    
@@ -65,12 +65,12 @@ Ticker symbol.
 
 * After having made all the scripts shown above, we reach the final point where we have interaction between all the sheets using VBA to obtain a final result, organized, structured and ready to read. 
 
-![](./resources/VBA_Challenge_2017.png). 
+![](Resources/VBA_Challenge_2017.png). 
 
 
 
 
-![](./resources/VBA_Challenge_2018.png). 
+![](Resources/VBA_Challenge_2018.png). 
 
 
   
