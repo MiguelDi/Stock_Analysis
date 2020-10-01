@@ -30,7 +30,7 @@ Ticker symbol.
   ![](Resources/AllstocksAnalyis.png). 
   
   
-  * Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
+  * Create a script that will loop a timer calculing endtime,startime and seconds by Year.
 
   ![](Resources/AllstocksAnalyisandtimer.png). 
   
