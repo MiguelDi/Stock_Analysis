@@ -30,7 +30,7 @@ Ticker symbol.
   ![](Resources/AllstocksAnalyis.png). 
   
   
-  * Create a script that will loop a timer calculing endtime,startime and seconds by Year.
+  * Create a script that will loop a timer to indicate how many seconds the code ran for each year. 
 
   ![](Resources/AllstocksAnalyisandtimer.png). 
   
