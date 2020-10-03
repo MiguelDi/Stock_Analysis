@@ -37,7 +37,7 @@ Ticker symbol.
   
   * Create a script that will loop a timer to indicate how many seconds the code ran for each year. 
 
-  ![](Resources/AllstocksAnalyisandtimer.png). 
+  	![](Resources/AllstocksAnalyisandtimer.png). 
   
   
   
@@ -46,7 +46,7 @@ Ticker symbol.
   
   * After all the scripts, we have to make another one to  conditional formatting the cells will highlight positive change in green and negative change in red.
 
-![](Resources/formatting.png).
+	![](Resources/formatting.png).
   
   
   
