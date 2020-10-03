@@ -66,7 +66,7 @@ Ticker symbol.
    
   *  Code Refactoring is the process of clarifying and simplifying the design of existing code, without changing its behavior. Agile teams are maintaining and extending their code a lot from iteration to iteration, and without continuous refactoring, this is hard to do. Example
 
-  ![](Resources/Refactoredcode.png). 
+  ![](Resources/Refactoredcode.png).
 
   
    
